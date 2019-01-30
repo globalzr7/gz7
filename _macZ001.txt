@@ -1,0 +1,165 @@
+
+
+
+
+
+
+select top 7 '<a href='+cu_email+'>'+cu_email+'</a>',cu_name1,cu_add1,cu_add2,cu_tel
+ from mt_customer where (cu_email !='' and cu_email!=null and cu_email!='ไม่มี' ) and cu_add2 like '%ปทุมธานี%' order by idd desc
+
+
+http://203.151.94.231:4778/GOne.jsp?usr=183183&psd=sree&&logon=Tbl_user_ong10
+http://203.151.94.231:4455/_Servlet441.jsp?al=183183&yMenu=183183
+http://203.151.94.231:4752/CCT3_56/_GStart.jsp?al=183183
+
+
+#xrandr
+#sudo sed -i 's/geteuid/getppid/' /usr/bin/vlc
+or
+Yet again, another way around this is to download and compile the VLC source code by passing the --enable-run-as-root flag to ./configure and VLC should be able to run as root.
+
+
+ src="//www.dailymotion.com/embed/video/x6femde?a
+rc="//www.dailymotion.com/embed/video/k1D5EOlgFjQq2sqaQTg?
+
+
+http://203.151.94.231:4778/GOne.jsp?usr=183183&psd=sree&&logon=Tbl_user_ong10
+http://203.151.94.231:4778/GOn.jsp?byp=1
+http://203.151.94.231:4778/GOne.jsp?usr=183183&psd=sree&&logon=Tbl_user_ong10
+
+http://203.151.94.231:4455/_Servlet441.jsp?al=183183&yMenu=183183
+
+
+select top 7 cu_name from mt_customer where (cu_email !='' or cu_email!=null) order by idd desc
+select top 7 cu_email,cu_name1,cu_add1,cu_add2,cu_tel
+ from mt_customer where (cu_email !='' and cu_email!=null and cu_email!='ไม่มี' ) order by idd desc
+
+select top 7 cu_email,cu_name1,cu_add1,cu_add2,cu_tel
+ from mt_customer where (cu_email !='' and cu_email!=null and cu_email!='ไม่มี' ) order by idd desc
+select top 1604 cu_email,cu_name1,cu_add1,cu_add2,cu_tel,idd   
+ from mt_customer where (cu_email !='' and cu_email!=null and cu_email!='ไม่มี' ) and cu_add2 like '%ปทุมธานี%' order by idd asc
+
+
+select top 7 count(idd) 
+ from mt_customer where (cu_email !='' and cu_email!=null and cu_email!='ไม่มี' ) and cu_add2 like '%สมุทรปราการ%'
+select top 7 count(idd) 
+ from mt_customer where (cu_email !='' and cu_email!=null and cu_email!='ไม่มี' ) and cu_add2 like '%นครนายก%'
+select top 7 count(idd) 
+ from mt_customer where (cu_email !='' and cu_email!=null and cu_email!='ไม่มี' ) and cu_add2 like '%อยุธยา%'
+select top 7 count(idd) 
+ from mt_customer where (cu_email !='' and cu_email!=null and cu_email!='ไม่มี' ) and cu_add2 like '%สมุทรสาคร%'
+select top 7 count(idd) 
+ from mt_customer where (cu_email !='' and cu_email!=null and cu_email!='ไม่มี' ) and cu_add2 like '%ดอนเมือง%'
+
+
+select top 700 '<a href='+cu_email+'>'+cu_email+'</a>',cu_name1,cu_add1,cu_add2,cu_tel
+ from mt_customer where (cu_email !='' and cu_email!=null and cu_email!='ไม่มี' ) and cu_add2 like '%ปทุมธานี%' order by idd desc
+
+
+
+http://203.151.94.231:4778/GOn.jsp?byp=1
+http://203.151.94.231:4778/GOne.jsp?usr=183183&psd=sree&&logon=Tbl_user_ong10
+
+http://203.151.94.231:4455/_Servlet441.jsp?al=183183&yMenu=183183
+﻿
+http://203.151.94.231:4455/Dmfr.jsp
+-
+SELECT USER, today(*) FROM SYS.DUMMY
+insert into em_leavehdDemo (dtt,em_id) values (now(),'XX0001') ..53
+select top 7 * from em_leavehddemo order by idd desc
+select top 7 * from em_othddemo order by idd desc
+
+-remoteDesktop
+192.168.0.12
+Global
+GLOBAL_WS2008
+
+80
+Dragonball Super [ซับไทย] ตอนที่ 78
+ds.74http://video.genfb.com/681370265375638
+
+_main_hdTbl.setWidthPercentage(100);
+				cell = TBCellmy9("วัน เดือน ปี", "X", "Left",10,"b", "");
+            		cell.setVerticalAlignment(Element.ALIGN_CENTER);
+            		cell.setHorizontalAlignment(Element.ALIGN_CENTER);
+
+
+->183183.Breaking.uLevel.checked
+-->/Upload/Xlsdata/_xipLeave1.pdf 
+
+
+--
+http://203.151.94.231:4455/CustSrv/nSatisc2Usr.jsp?al=183183&em_id=400309&msisdn=&det=Global received 400309.Information, after this, can regist myself at http://sprinkleth.com
+-
+2535:prpouser:_junction='Authorized' -00,HP,XX
+--
+
+insert into em_overhd (dtt,em_id,em_type,v_overtype,v_overday,v_tstart,v_tstop,v_hourtotal,v_result,mnote1,warn1,ip,status) values (now(), '183183','1','3','1','1.02','2.03','1.53','resultxปe','','','',2) 
+insert into em_leavehd (dtt,em_id,sc_id,l_dstart,l_dstop,l_tstart,l_tstop,l_daytotal,l_timetotal,l_result,mnote1,status) values (now(), '183183','T2','2017/02/10','2017/02/10','11','22','33','44','พักร้อนx','5555',2) 
+http://203.151.94.231:4455/Xlsdata212/Over1Frm.jsp?al=171785
+http://sprinkleth.com:4455/Twn_Admin.jsp?admin=admin&al=183183
+http://203.151.94.231:4778/GFrm.jsp?admin=admin&al=183183&yMenu=183183
+http://203.151.94.231:4778/GOne.jsp?usr=183183&psd=sree&&logon=Tbl_user_ong10
+window.onbeforeunload = function (e) {
+	e = e || window.event;
+  	if (e) {
+  		   e.returnValue = message;
+   	top.location='LogOut.jsp?inp_em=<%=String.valueOf(request.getParameter("al")).trim()%>&al=<%=String.valueOf(request.getParameter("al")).trim()%>');
+  	return true;
+  	}
+};
+
+
+http://203.151.94.231:4455/CustSrv/CustSrv.jsp?al=171555
+http://203.151.94.231:4455/CustSrv/CustSrv.jsp?al=183183
+http://203.151.94.231:4455/CustSrv/Gr03Frm.jsp?al=183183
+:เทคนิคClassSwitching
+::http://stackoverflow.com/questions/195951/change-an-elements-class-with-javascript
+
+
+  vpn:4778
+dmnz:4444
+http://203.151.94.231:4455/Xlsdata212/Globalrq.jsp?al=183183
+http://203.151.94.231:4455/Xlsdata/_slide2.jsp?al=183183
+http://203.151.94.231:4455/Xlsdata212/Leave1Bws.jsp?al=183183
+
+String _scsrLog="create table "+ _scLog +  " (IDD int not null default autoincrement, DTT DATETIME not null default CURRENT TIMESTAMP,em_id char(6)  null,jbegin datetime null,jend datetime null,jsql1 text null, mnote1 text null, constraint _ScLog primary key (IDD))" ;
+create table em_leavehd (IDD int not null default autoincrement, DTT DATETIME not null default CURRENT TIMESTAMP,em_id char(6) not null,sc_id char(2) null,st_id char null,jbegin datetime null,jend datetime null,jsql1 text null,l_dstart date null,l_dstop date null, l_tstart varchar(160) null, l_tstop varchar(160) null, l_timetotal int null, l_daytotal int null, l_result text null,l_1signn smallint null,l_1signdate datetime null,l_2signn smallint null,l_2signdate datetime null,l_3signn smallint null,l_3signdate datetime null,l_4signn smallint null,l_4signdate datetime null,l_4note1 text null,l_4note2 text null,l_4note3 text null,l_4note4 text null,mnote1 text null, warn1 text null,ip text null,status int null, constraint _idd primary key (idd)) 
+
+create table em_overhd (IDD int not null default autoincrement, DTT DATETIME not null default CURRENT TIMESTAMP,em_id char(6) not null,sc_id char(2) null,st_id char null,em_type smallint null,v_overtype1 smallint null,v_overtype2 smallint null,v_overtype3 smallint null,v_overtype4 smallint null,v_overday1 smallint null,v_overday2 smallint null,v_overday3 smallint null, jbegin datetime null,jend datetime null,jsql1 text null,v_dstart date null,v_dstop date null, v_tstart varchar(160) null, v_tstop varchar(160) null, v_hourtotal int null, v_result text null,v_1signn varchar(120) null,v_1signdate datetime null,v_2signn varchar(120) null,v_2signdate datetime null,v_3signn varchar(120) null,v_3signdate datetime null,v_4signn varchar(120) null,v_4signdate datetime null,v_4note1 text null,v_4note2 text null,v_4note3 text null,v_4note4 text null,mnote1 text null, warn1 text null,ip text null,status int null, constraint _idd primary key (idd))
+
+
+
+
+
+4749:>http://203.151.94.231:4749/CCT3_56/_JobGate.jsp&al=B2015&myPg=MMB&_reset=true
+
+zreesr@icloud.com
+21690#Apple iPad Pro 9.7 Wi-Fi + Cellular (32GB) 4G (Silver)
+http://www.lazada.co.th/apple-ipad-pro-97-wi-fi-cellular-32gb-4g-silver-6377176.html?mp=1
+-
+5070#SEAGATE HDD - HARD DISK INTERNAL 4.0 TB SATA-III 64 MB 
+http://www.lazada.co.th/seagate-hdd-hard-disk-internal-40-tb-sata-iii-64-mbst4000dm005-barracuda-10236063.html?mp=1
+
+
+Arcard2.jsp>>>>
+...>203.151.94.231:4455/_dmn9/Depart/Ch_auto/myUpd1Arpayhd2.jsp
+>203.151.94.231:4455/_dmn9/Depart/Ch_auto/myUpd1Arpayhd2.jsp?submit=ArpayhdUpd2&admin=admin&al=183183
+>203.151.94.231:4455/_dmn9/Depart/Ch_auto/myUpd1Arcard2Full2.jsp?inp_docno=&submit=ArcardUpd2&admin=admin&al=183183
+>203.151.94.231:4455/_dmn9/Depart/Ch_auto/myUpd1Arcard2Full2New.jsp?inp_docno=&submit=ArcardUpd2&admin=admin&al=183183
+exit
+
+
+
+prmatthachariz@gmail.com@1234Atth
+prmatthachariz@gmail.com
+
+
+winXP.Update
+>http://go.microsoft.com/fwlink/?linkid=209191
+-
+_macZ001  2017.01.04
+select top 2 arcard2c, arcard2cd,arcard2cd2 from global where glb_hd='CallCentre' 
+select top 7 * from myarcard order by idd desc 
+select top 7 * from myarcardc order by idd desc 
+select top 7 * from myarcardcc order by idd desc 
